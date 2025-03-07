@@ -1,0 +1,20 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "Job Portal threat model",
+    "owner": "Dipto",
+    "description": "Not mandatory",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "DIpto"
+      }
+    ],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Dipto",
+    "threatTop": 0
+  }
+}
